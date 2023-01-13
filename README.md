@@ -1,1 +1,1 @@
-# gbac
+# Glimpse-Based Actor-Critic
